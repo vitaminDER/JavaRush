@@ -3,6 +3,7 @@ public class Solution {
         java.util.Scanner console = new java.util.Scanner(System.in);
         if (console.hasNext()) {
             System.out.println(console.next());
+
         }
     }
 }
