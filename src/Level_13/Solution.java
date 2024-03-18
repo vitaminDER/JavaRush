@@ -1,6 +1,7 @@
 package Level_13;
 //СРАВНЕНИЕ ЧИСЕЛ
-/*public class Solution {
+/*
+public class Solution {
     static Integer first = 1000;
     static Integer second = 1000;
     static int third = 1000;
@@ -14,7 +15,8 @@ package Level_13;
 
 
 //КАКОЕ ЧИСЛО МЕНЬШЕ
-/*public class Solution  {
+/*
+public class Solution  {
     public static void main(String[] args) {
         int first = 2;
         int second = 1;
@@ -31,4 +33,6 @@ package Level_13;
     public static Boolean isLess(int first, int second) {
         return first < second ? true : false;
     }
-}*/
+}
+*/
+
