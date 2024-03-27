@@ -119,3 +119,27 @@ public class UniversityGroup {
     }
 }
 */
+
+//ОБЪЕКТЫ ВНТУРЕННИХ И ВЛОЖЕННЫХ КЛАССОВ
+/*
+public class Solution {
+    public static void main(String[] args) {
+        Outer.Inner inner = new Outer().new Inner();
+        Outer.Nested nested = new Outer.Nested();
+    }
+
+    public static class Outer {
+        class Inner {
+            Inner() {
+                System.out.println("Создание объекта внутреннего класса");
+            }
+        }
+
+        static class Nested {
+            Nested() {
+                System.out.println("Создание объекта вложенного класса");
+            }
+        }
+    }
+}
+*/
